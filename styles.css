@@ -1,0 +1,77 @@
+body {
+
+    background-color: white;
+}
+
+
+table, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+#section1   {
+    margin: 40px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    width: 380px;
+    box-shadow: 5px 5px 15px grey;
+    font-size: medium;
+}
+.header1 {
+    background-color: yellow;
+    text-align: left;
+}
+.header2 {
+    background-color: yellow;
+    text-align: left;
+}
+#table1 {
+    box-shadow: 20px;
+}
+
+#section2   {
+    margin: 80px 40px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+    width: 500px;
+    box-shadow: 5px 5px 15px grey;
+    
+}
+
+caption    {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: yellow;
+
+}
+.marketing  {
+    background-color: white;
+}
+.Customer   {
+    background-color: white;
+}
+
+#years  {
+    text-align: right;
+}
+
+#service    {
+    text-align: right;
+}
+
+.tyos  {
+    text-align: right;
+    font-weight: bold;
+}
+
+
+
